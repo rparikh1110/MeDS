@@ -1,0 +1,6 @@
+framework module Pods_MeDS_MeDSUITests {
+  umbrella header "Pods-MeDS-MeDSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
